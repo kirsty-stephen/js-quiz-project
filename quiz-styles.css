@@ -1,0 +1,21 @@
+#header {
+    background-color: #c6ecd8;
+    font-family: 'Zilla Slab' , serif;
+}
+
+#intro-card {
+    background-color: #c6ecd8;
+    font-family: "Zilla Slab" ,  serif;
+}
+
+.footer {
+    background-color:  #c6ecd8;
+    font-family: 'Roboto' , sans-serif;
+}
+
+
+#question1, #question2, #question3, #question4, #question5, #result {
+    display: none;
+}
+
+
